@@ -20,6 +20,6 @@ GenCode简介
 		})
 	</script>
 	3、在您的input里，class写上需要校验的类型：<input class="_inputNumber" />
-注意事项1
+注意事项2
 >
 	 
